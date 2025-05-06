@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento Escolar
+👨‍💻 Autor: *João Victor Alves de Rezende*
 
-Este projeto foi desenvolvido por mim, João Victor Alves de Rezende, durante a disciplina de **Raciocínio Computacional**, do curso de **Análise e Desenvolvimento de Sistemas**.
+Este projeto foi desenvolvido durante a disciplina de **Raciocínio Computacional**, do curso de **Análise e Desenvolvimento de Sistemas**.
 
 ## 📚 Sobre o Projeto
 
